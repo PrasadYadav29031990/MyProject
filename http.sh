@@ -1,1 +1,1 @@
-yum install httpd* -y
+yum install http* -y
